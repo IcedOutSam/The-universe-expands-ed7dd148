@@ -1,1 +1,2 @@
-SELECT * FROM sterrenstelsel.planeten;
+use  `sterrenstelsel`; 
+insert into planeten values ('Zon'), ('Mercurius'), ('Venus'), ('Aarde'), ('Mars');
